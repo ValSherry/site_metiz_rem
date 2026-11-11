@@ -1,0 +1,65 @@
+/* Тема 2 — инженерная премиальность */
+:root {
+  --c-43566b: #4b6271;
+  --c-071a2b88: #172b3a88;
+  --c-102d4c: #253847;
+  --c-17283d: #263442;
+  --c-173f68: #344d61;
+  --c-17643f: #426b54;
+  --c-18845b: #4d8064;
+  --c-245b8c: #506b80;
+  --c-245b8c18: #506b8018;
+  --c-40536a: #465d6d;
+  --c-53677d: #5c7180;
+  --c-5f7183: #657987;
+  --c-66768a: #697987;
+  --c-9eb2c4: #a9b9c3;
+  --c-b7c9d9: #bdcbd3;
+  --c-b9cbd9: #bdcbd3;
+  --c-cbd7e2: #c7d2d9;
+  --c-ccd8e3: #cbd6dc;
+  --c-d0deea: #d2dce1;
+  --c-d3e0eb: #d4dfe4;
+  --c-d8e6f2: #dce5e9;
+  --c-dc6925: #8d6344;
+  --c-dce7ef: #e0e8eb;
+  --c-dce7f1: #e4ebef;
+  --c-e2e9f0: #dce3e7;
+  --c-e8eff5: #edf1f2;
+  --c-e8f4ed: #e8f0eb;
+  --c-edf3f8: #eaf0f2;
+  --c-eef4f9: #f0f3f4;
+  --c-ef7c32: #a97850;
+  --c-ef7c3230: #a9785030;
+  --c-f2ad72: #b88b69;
+  --c-f5f8fb: #f4f6f6;
+  --c-f7f9fc: #f4f6f6;
+  --c-ffad76: #c6a184;
+  --c-fff: #fff;
+  --c-ffffff0b: #ffffff0b;
+  --c-ffffff20: #ffffff20;
+  --c-ffffff22: #ffffff22;
+  --c-ffffff24: #ffffff24;
+  --c-ffffffed: #fffffff0;
+}
+.btn-primary{box-shadow:0 8px 20px color-mix(in srgb,var(--orange) 22%,transparent)}
+.eyebrow:before{opacity:.9}
+/* Полный набор семантических токенов темы */
+:root{
+  --paper: #ffffff;
+  --ink: #263442;
+  --muted: #697987;
+  --orange: #a97850;
+  --blue: #253847;
+  --blue2: #506b80;
+  --line: #dce3e7;
+  --soft: #eaf0f2;
+  --bg: #f4f6f6;
+  --accent-light: #d9b99e;
+  --machine-base: #1c2c37;
+  --machine-frame: #506777;
+  --machine-dark: #2b414e;
+  --machine-metal: #aabac3;
+  --machine-accent: #a97850;
+  --machine-highlight: #e4ebef;
+}

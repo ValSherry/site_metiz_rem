@@ -1,1 +1,63 @@
-
+/* Тема 1 — сине-графитовая с оранжевым акцентом */
+:root {
+  --c-43566b: #43566b;
+  --c-071a2b88: #071a2b88;
+  --c-102d4c: #102d4c;
+  --c-17283d: #17283d;
+  --c-173f68: #173f68;
+  --c-17643f: #17643f;
+  --c-18845b: #18845b;
+  --c-245b8c: #245b8c;
+  --c-245b8c18: #245b8c18;
+  --c-40536a: #40536a;
+  --c-53677d: #53677d;
+  --c-5f7183: #5f7183;
+  --c-66768a: #66768a;
+  --c-9eb2c4: #9eb2c4;
+  --c-b7c9d9: #b7c9d9;
+  --c-b9cbd9: #b9cbd9;
+  --c-cbd7e2: #cbd7e2;
+  --c-ccd8e3: #ccd8e3;
+  --c-d0deea: #d0deea;
+  --c-d3e0eb: #d3e0eb;
+  --c-d8e6f2: #d8e6f2;
+  --c-dc6925: #dc6925;
+  --c-dce7ef: #dce7ef;
+  --c-dce7f1: #dce7f1;
+  --c-e2e9f0: #e2e9f0;
+  --c-e8eff5: #e8eff5;
+  --c-e8f4ed: #e8f4ed;
+  --c-edf3f8: #edf3f8;
+  --c-eef4f9: #eef4f9;
+  --c-ef7c32: #ef7c32;
+  --c-ef7c3230: #ef7c3230;
+  --c-f2ad72: #f2ad72;
+  --c-f5f8fb: #f5f8fb;
+  --c-f7f9fc: #f7f9fc;
+  --c-ffad76: #ffad76;
+  --c-fff: #fff;
+  --c-ffffff0b: #ffffff0b;
+  --c-ffffff20: #ffffff20;
+  --c-ffffff22: #ffffff22;
+  --c-ffffff24: #ffffff24;
+  --c-ffffffed: #ffffffed;
+}
+/* Полный набор семантических токенов темы */
+:root{
+  --paper: #ffffff;
+  --ink: #17283d;
+  --muted: #66768a;
+  --orange: #ef7c32;
+  --blue: #102d4c;
+  --blue2: #245b8c;
+  --line: #e2e9f0;
+  --soft: #f5f8fb;
+  --bg: #f7f9fc;
+  --accent-light: #ffd0ad;
+  --machine-base: #0b2239;
+  --machine-frame: #315d80;
+  --machine-dark: #173650;
+  --machine-metal: #8fa8bd;
+  --machine-accent: #ef7c32;
+  --machine-highlight: #dce8f0;
+}
